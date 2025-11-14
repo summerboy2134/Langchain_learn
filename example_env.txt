@@ -1,0 +1,20 @@
+# 环境变量示例（将此文件重命名为 .env 并填入真实密钥）
+
+# --- ModelVerse（推荐，已在项目中统一使用） ---
+MODELVERSE_API_KEY=your_modelverse_api_key_here
+MODELVERSE_API_BASE=https://api.modelverse.cn/v1
+MODELVERSE_MODEL=deepseek-ai/DeepSeek-R1
+
+# --- OpenAI（可选：如需使用原生 OpenAI，可自行配置） ---
+
+OPENAI_API_KEY=your_openai_api_key_here
+OPENAI_API_BASE=https://api.openai.com/v1
+
+# 可选配置
+# OPENAI_MODEL=gpt-3.5-turbo
+
+# 如果需要使用代理，可以设置：
+# HTTP_PROXY=http://your-proxy:port
+# HTTPS_PROXY=http://your-proxy:port
+
+
