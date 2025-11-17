@@ -187,7 +187,7 @@ def example_4_streaming_agent():
 
 
 if __name__ == "__main__":
-    print("\n🤖 Agents 简洁示例（ModelVerse / DeepSeek-V3）\n")
+    print("\n🤖 Agents 简洁示例（ModelVerse / DeepSeek-R1）\n")
     example_1_calculator()
     example_2_structured_tool()
     example_3_small_toolset()
